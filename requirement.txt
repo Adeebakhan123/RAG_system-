@@ -1,0 +1,10 @@
+langchain
+sentence-transformers
+chromadb
+faiss-cpu
+pypdf
+langchain-huggingface
+langchain-community
+pymupdf
+scikit-learn
+numpy
